@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+build
+torchnvjpeg.egg-info
+dist
+.vscode
